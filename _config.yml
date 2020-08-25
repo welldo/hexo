@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 半称心
+title: '半称心'
 subtitle: '人生哪能多如意, 万事只求半称心。'
 description: '万事只求半称心，这不是玩世，这是求是。追求“半称心”的生活，不是无奈和消极，而是一种豁达和智慧。'
-keywords:
-author: Yang
+keywords: '半称心'
+author: 'Yang Yang'
 language:  en
 timezone:  'Asia/Shanghai'
 # URL
@@ -53,7 +53,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: 默认
 category_map:
 tag_map:
 
